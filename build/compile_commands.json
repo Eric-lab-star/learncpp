@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/cyon2/Documents/source_code/learncpp/build",
+  "command": "C:\\Users\\cyon2\\clang+llvm-20.1.0-x86_64-pc-windows-msvc\\bin\\clang++.exe -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Learncpp.dir\\main.cpp.obj -c C:\\Users\\cyon2\\Documents\\source_code\\learncpp\\main.cpp",
+  "file": "C:/Users/cyon2/Documents/source_code/learncpp/main.cpp",
+  "output": "C:/Users/cyon2/Documents/source_code/learncpp/build/CMakeFiles/Learncpp.dir/main.cpp.obj"
+}
+]
