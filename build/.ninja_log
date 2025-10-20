@@ -1,12 +1,6 @@
 # ninja log v7
-18	299	7804593872606840	CMakeFiles/Learncpp.dir/main.cpp.obj	d657c49968a3b37
-302	378	7804586332887248	Learncpp.exe	ab968cae1325e28b
-9	40	7804579599044798	CMakeFiles/Learncpp.dir/add.cpp.obj	e27885d6bc212b89
-14	48	7804593872566785	Math/CMakeFiles/Math.dir/add.cpp.obj	3986ef95da3048df
-48	87	7804593872909188	Math/Math.lib	badc3cf27fcaf403
-17	46	7804595040192103	Math/CMakeFiles/Math.dir/add.cpp.obj	3986ef95da3048df
-46	86	7804595040480844	Math/Math.lib	badc3cf27fcaf403
-21	297	7804595040222108	CMakeFiles/Learncpp.dir/main.cpp.obj	d657c49968a3b37
-298	370	7804595042991582	Learncpp.exe	ab968cae1325e28b
 12	283	7804595305949585	CMakeFiles/Learncpp.dir/main.cpp.obj	d657c49968a3b37
 283	358	7804595308665014	Learncpp.exe	ab968cae1325e28b
+9	40	7804579599044798	CMakeFiles/Learncpp.dir/add.cpp.obj	e27885d6bc212b89
+17	46	7804595040192103	Math/CMakeFiles/Math.dir/add.cpp.obj	3986ef95da3048df
+46	86	7804595040480844	Math/Math.lib	badc3cf27fcaf403
