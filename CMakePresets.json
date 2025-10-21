@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"configurePresets" : [
+		{
+			"name": "dev",
+			"generator": "Ninja",
+			"bindarDir": "build",
+
+
+		}
+	]
+}
