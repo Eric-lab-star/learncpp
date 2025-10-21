@@ -1,6 +1,13 @@
 #include <iostream>
+#include "main.h"
 
 int main () {
-	std::cout << "hello world \n";
-	return 0;
+	int a {ten()};
+	std::cout << a + 10 << '\n';
+	std::cout << a + 20 << '\n';
+}
+
+
+int ten() {
+	return 10;
 }

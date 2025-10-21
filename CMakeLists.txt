@@ -14,3 +14,6 @@ add_compile_options(
 )
 
 add_executable(main main.cpp)
+target_include_directories(main PUBLIC
+	"${PROJECT_BINARY_DIR}"
+)
